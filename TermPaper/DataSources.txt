@@ -1,0 +1,18 @@
+Dataset time
+200501-201603
+200901-201603
+
+BNP
+http://www.scb.se/sv_/Hitta-statistik/Statistik-efter-amne/Nationalrakenskaper/Nationalrakenskaper/Nationalrakenskaper-kvartals--och-arsberakningar/
+http://www.ekonomifakta.se/Fakta/Ekonomi/Tillvaxt/BNP---Sverige/?graph=/14515/1/all/
+
+Housing index
+http://www.valueguard.se/index
+
+KPI
+http://www.scb.se/sv_/Hitta-statistik/Statistik-efter-amne/Priser-och-konsumtion/Konsumentprisindex/Konsumentprisindex-KPI/33772/33779/Konsumentprisindex-KPI/287612/
+
+SP - PE - PB - CaseShiller - CPI
+http://www.multpl.com/s-p-500-book-value
+
+NOTE: CaseShille 200501-201601
